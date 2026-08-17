@@ -1,8 +1,12 @@
 # Plan de recherche — Catalogue de formations courtes MolenGeek Roubaix
 
 **Version :** 17 août 2026  
-**Statut global :** cadrage terminé — recherche à démarrer  
-**Étape suivante :** étape 1, définir les publics et les situations d'achat prioritaires
+**Statut global :** catalogue et pages de vente finalisés — quatre pages auditées contre les exigences publiques Qualiopi
+**Étape suivante :** effectuer les vérifications opérationnelles avant publication, puis ouvrir les sessions pilotes
+**Livrable de recherche :** `references/recherche-approfondie-formations-courtes-opco.md`
+**Livrable de copywriting :** `livrables/titres-promesses-formations-courtes-2026-08-17.md`
+**Catalogue final et pilotes :** `livrables/catalogue-final-formations-courtes-pilotes-2026-08-17.md`
+**Pages de vente :** `livrables/pages-de-vente/`
 
 ## 1. Objectif final
 
@@ -86,15 +90,15 @@ Le nombre d'échanges indiqué est une **estimation de pilotage**, pas une contr
 | Étape | Objet | Livrable attendu | Échanges estimés | Statut |
 |---|---|---|---:|---|
 | 0 | Cadrer la recherche | Présent document | 1 | Terminé |
-| 1 | Définir les publics et situations d'achat | 2 à 4 publics prioritaires et leurs contextes | 1 à 2 | À faire |
-| 2 | Recueillir les signaux de demande en ligne | Corpus sourcé de problèmes, attentes et formulations | 2 à 3 | À faire |
-| 3 | Regrouper et hiérarchiser les problèmes | Carte de 10 à 20 problèmes ou résultats recherchés | 1 à 2 | À faire |
-| 4 | Générer les concepts de formation | 8 à 12 fiches concepts comparables | 2 | À faire |
-| 5 | Évaluer et présélectionner | Classement argumenté de 4 à 6 concepts | 1 à 2 | À faire |
-| 6 | Préparer et conduire les entretiens courts | Guide, retours structurés et enseignements | 2 à 4 | À faire |
-| 7 | Concevoir et tester les titres et promesses | 2 à 3 variantes pour chaque finaliste | 1 à 3 | À faire |
-| 8 | Choisir le catalogue final | Décision sur 2 à 4 formations | 1 à 2 | À faire |
-| 9 | Détailler les offres retenues | Fiches commercialisables et plan des pilotes | 2 à 3 | À faire |
+| 1 | Définir les publics et situations d'achat | 2 à 4 publics prioritaires et leurs contextes | 1 à 2 | Terminé |
+| 2 | Recueillir les signaux de demande en ligne | Corpus sourcé de problèmes, attentes et formulations | 2 à 3 | Terminé |
+| 3 | Regrouper et hiérarchiser les problèmes | Carte de 10 à 20 problèmes ou résultats recherchés | 1 à 2 | Terminé |
+| 4 | Générer les concepts de formation | 8 à 12 fiches concepts comparables | 2 | Terminé |
+| 5 | Évaluer et présélectionner | Classement argumenté de 4 à 6 concepts | 1 à 2 | Terminé |
+| 6 | Préparer et conduire les entretiens courts | Guide, retours structurés et enseignements | 2 à 4 | Écartée par décision |
+| 7 | Concevoir et tester les titres et promesses | 2 à 3 variantes pour chaque finaliste | 1 à 3 | Terminé |
+| 8 | Choisir le catalogue final | Décision sur 2 à 4 formations | 1 à 2 | Terminé |
+| 9 | Détailler les offres retenues | Fiches commercialisables et plan des pilotes | 2 à 3 | Terminé |
 
 **Estimation initiale totale :** environ 13 à 23 échanges, dont l'échange de cadrage déjà réalisé. Cette estimation sera recalculée à la fin de chaque étape.
 
@@ -408,13 +412,13 @@ Le texte suivant devra servir de consigne permanente lors des prochaines séquen
 >
 > N'accumule pas indéfiniment de l'information. À chaque étape, applique la porte de décision prévue, explicite les incertitudes et transforme la recherche en choix actionnables. Si une donnée fiable manque, indique-le et propose le test le moins coûteux permettant de réduire l'incertitude.
 
-## 8. État d'avancement initial
+## 8. État d'avancement actuel
 
 > **Avancement du plan**  
-> Étape active : 1 sur 9 — Définir les publics et les situations d'achat  
-> Statut de l'étape : à démarrer  
-> Acquis à ce stade : objectif, contraintes, principes et méthode de suivi validés  
-> Décision attendue maintenant : sélectionner les publics à étudier en priorité  
-> Échanges estimés avant la fin de cette étape : 1 à 2  
-> Échanges estimés avant la fin de la recherche : 12 à 22  
-> Prochaine étape : recueillir les signaux de demande en ligne
+> Étape active : 9 sur 9 — Détailler les offres et préparer les pilotes
+> Statut de l'étape : terminée
+> Acquis à ce stade : catalogue final de quatre formations ; deux vagues de lancement ; trois intensités de copywriting par offre ; quatre fiches commercialisables complètes ; critères d'ouverture, de réussite et de décision des pilotes
+> Décision attendue maintenant : aucune pour clôturer la recherche et la rédaction ; les pages de vente sont produites et la prochaine action consiste à appliquer la checklist opérationnelle avant publication
+> Échanges estimés avant la fin de cette étape : 0
+> Échanges estimés avant la fin de la recherche : 0
+> Prochaine étape : publier puis commercialiser les pilotes « AI Act » et « Prospects et relances »
