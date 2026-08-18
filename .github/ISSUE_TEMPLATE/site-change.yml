@@ -1,0 +1,40 @@
+name: Mise à jour du site
+description: Demander une proposition de modification du site MolenGeek Roubaix.
+title: "site: "
+labels:
+  - "site:à-traiter"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cette demande déclenche une proposition de pull request. La publication n'a lieu qu'après validation et fusion.
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objectif de la modification
+      description: Décrivez le résultat attendu pour le visiteur.
+      placeholder: Exemple : clarifier le prix et le délai du sprint « IA métier ».
+    validations:
+      required: true
+  - type: checkboxes
+    id: pages
+    attributes:
+      label: Pages concernées
+      options:
+        - label: Accueil / services
+        - label: Formations courtes
+        - label: Une page de service ou de formation précise
+        - label: Styles communs ou navigation
+  - type: textarea
+    id: details
+    attributes:
+      label: Contenu et contraintes
+      description: Ajoutez les textes, liens, sources ou contraintes indispensables. Indiquez « à proposer » si vous attendez une suggestion.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critères de validation
+      description: À quoi reconnaîtra-t-on que la proposition est prête à relire ?
+      placeholder: Exemple : le nouveau bloc est visible sur mobile et le lien de contact ouvre le bon message.
+    validations:
+      required: true

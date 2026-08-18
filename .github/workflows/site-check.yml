@@ -1,0 +1,24 @@
+name: Vérifier le site
+
+on:
+  pull_request:
+    paths:
+      - "site/**"
+      - "scripts/validate_site.py"
+  push:
+    branches:
+      - main
+    paths:
+      - "site/**"
+      - "scripts/validate_site.py"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Vérifier les pages et ressources locales
+        run: python3 scripts/validate_site.py
